@@ -1,0 +1,1 @@
+0:0:0:0:0:0:0:1 - - [11/Apr/2023:08:51:20 +0900] "GET /ch2/registerForm.html?id=dgf&pwd=fdgf&name=dg&email=ala%40nn.com&birth=2020%2F12%2F13&sns=facebook&sns=kakaotalk&sns=instagram HTTP/1.1" 404 721

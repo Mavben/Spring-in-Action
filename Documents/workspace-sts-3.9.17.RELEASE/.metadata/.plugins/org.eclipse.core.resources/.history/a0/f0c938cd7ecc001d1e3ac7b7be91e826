@@ -1,0 +1,10 @@
+package com.fastcampus.ch2;
+
+@Controller //
+public class RegisterController {
+
+	public static void main(String[] args) {
+		RegisterController
+	}
+
+}

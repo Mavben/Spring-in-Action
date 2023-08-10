@@ -1,0 +1,43 @@
+package com.fastcampus.ch2;
+
+public class Grade {
+	private int e;// 영어 성적을 위한 변수
+	private int m;// 수학 성적을 위한 변수
+	
+	public Grade() {
+		this(int a, int b) 
+	}
+	
+	public Grade(int a, int b) {
+		e= a;
+		m= b;
+	}
+	
+	void output_grade() {
+		System.out.println( e + m );
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
